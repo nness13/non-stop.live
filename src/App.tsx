@@ -79,7 +79,7 @@ class App extends Component<MapPropsType & DispatchPropsType> {
                                     <Menu.Item key="5"><Link to="/developers">Developers</Link></Menu.Item>
                                     <Menu.Item key="6">AllUsers</Menu.Item>
                                 </SubMenu>
-                                <SubMenu key="sub3" icon={<NotificationOutlined/>} title="subnav 3">
+                                <SubMenu key="sub3" icon={<NotificationOutlined/>} title="subNav">
                                     <Menu.Item key="9"><Link to="/chat">Chat</Link></Menu.Item>
                                     <Menu.Item key="10">ChatBot</Menu.Item>
                                 </SubMenu>
